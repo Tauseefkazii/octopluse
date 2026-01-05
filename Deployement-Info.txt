@@ -1,0 +1,27 @@
+PROJECT: Octopulse Website
+
+FRAMEWORK:
+Next.js 16 (App Router)
+
+BUILD COMMAND:
+npm run build
+
+BUILD OUTPUT:
+.next
+
+NODE VERSION:
+18
+
+DEPLOY PLATFORM:
+Cloudflare Pages
+
+ENV FILE USED LOCALLY:
+.env.local (NOT shared)
+
+REQUIRED ENV VARIABLES ON CLOUDFARE:
+NONE
+(or list them if any)
+
+
+LAST BUILD STATUS:
+SUCCESS (Jan 2026)
