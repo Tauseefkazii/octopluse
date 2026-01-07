@@ -27,7 +27,7 @@ const items = [
   }
 ];
 
-export default function WhyBlend() {
+export default function Projects() {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
 
   return (
