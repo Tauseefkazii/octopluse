@@ -78,7 +78,7 @@ const reviews = [
   },
 ];
 
-export default function Testimonials() {
+export default function Blog() {
   const [showAll, setShowAll] = useState(false);
 
   const visibleReviews = showAll ? reviews : reviews.slice(0, 6);
