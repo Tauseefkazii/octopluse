@@ -1,4 +1,4 @@
-export default function OurWork() {
+export default function Experience() {
   return (
     <section id="services" className="w-full bg-white py-28">
       <h2 className="text-center text-4xl md:text-5xl font-light text-[#2E2A5A] mb-24">
