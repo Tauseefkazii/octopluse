@@ -1,8 +1,8 @@
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
-import Hero from "@/components/hero";
-import About from "@/components/about";
+import Hero from "@/components/Hero";
+import About from "@/components/About";
 import Experience from "@/components/experience";
 import Skills from "@/components/skills";
 import Projects from "@/components/projects";
