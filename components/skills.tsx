@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { TrendingUp } from "lucide-react";
 
-export default function Results() {
+export default function Skills() {
   const results = [
     {
       percent: "78%",
