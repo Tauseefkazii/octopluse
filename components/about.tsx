@@ -10,7 +10,7 @@ const fadeUp = {
   visible: { opacity: 1, y: 0 },
 };
 
-export default function Hero() {
+export default function About() {
   return (
     <section
       id="brand"
